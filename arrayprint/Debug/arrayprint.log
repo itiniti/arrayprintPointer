@@ -1,0 +1,4 @@
+﻿  array_print.c
+C:\Users\admin\source\repos\arrayprint\arrayprint\array_print.c(10,16): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int (*)[10]'과(와) 다릅니다.
+C:\Users\admin\source\repos\arrayprint\arrayprint\array_print.c(10,16): warning C4024: 'array_print': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  arrayprint.vcxproj -> C:\Users\admin\source\repos\arrayprint\Debug\arrayprint.exe
